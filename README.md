@@ -9,15 +9,15 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 
 ## 目录
 
-* Task00：绪论 - 环境搭建
+* ch00：绪论 - 环境搭建
     - [x] [1. MySQL 8.0 的安装](https://github.com/datawhalechina/team-learning-sql/blob/main/Task00%EF%BC%9A%E7%BB%AA%E8%AE%BA%20-%20%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md#1-mysql-80-%E7%9A%84%E5%AE%89%E8%A3%85)
     - [x] [2. 连接 MySQL 并执行 SQL 查询](https://github.com/datawhalechina/team-learning-sql/blob/main/Task00%EF%BC%9A%E7%BB%AA%E8%AE%BA%20-%20%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md#2-%E8%BF%9E%E6%8E%A5-mysql-%E5%B9%B6%E6%89%A7%E8%A1%8C-sql-%E6%9F%A5%E8%AF%A2)
 
-* Task01：初识数据库
+* ch01：初识数据库
     - [x] [1.1 初识数据库](https://github.com/datawhalechina/team-learning-sql/blob/main/Task01%EF%BC%9A%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93.md#11-%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93)
     - [x] [1.2 初识SQL](https://github.com/datawhalechina/team-learning-sql/blob/main/Task01%EF%BC%9A%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93.md#11-%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93)
 
-* Task02：基础查询与排序
+* ch02：基础查询与排序
     - [x] [2.1 SELECT语句基础](https://github.com/datawhalechina/team-learning-sql/blob/main/Task02%EF%BC%9A%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#21-select%E8%AF%AD%E5%8F%A5%E5%9F%BA%E7%A1%80)
     - [x] [2.2 算术运算符和比较运算符](https://github.com/datawhalechina/team-learning-sql/blob/main/Task02%EF%BC%9A%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#22-%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E7%AC%A6%E5%92%8C%E6%AF%94%E8%BE%83%E8%BF%90%E7%AE%97%E7%AC%A6)
     - [x] [2.3 逻辑运算符](https://github.com/datawhalechina/team-learning-sql/blob/main/Task02%EF%BC%9A%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#23-%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E7%AC%A6)
@@ -25,24 +25,24 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
     - [x] [2.5 对表进行分组](https://github.com/datawhalechina/team-learning-sql/blob/main/Task02%EF%BC%9A%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#25-%E5%AF%B9%E8%A1%A8%E8%BF%9B%E8%A1%8C%E5%88%86%E7%BB%84)
     - [x] [2.6 为聚合结果指定条件](https://github.com/datawhalechina/team-learning-sql/blob/main/Task02%EF%BC%9A%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#26-%E4%B8%BA%E8%81%9A%E5%90%88%E7%BB%93%E6%9E%9C%E6%8C%87%E5%AE%9A%E6%9D%A1%E4%BB%B6)
 
-* Task03：复杂一点的查询
+* ch03：复杂一点的查询
     - [x] [3.1 视图](https://github.com/datawhalechina/team-learning-sql/blob/main/Task03%EF%BC%9A%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#31-%E8%A7%86%E5%9B%BE)
     - [x] [3.2 子查询](https://github.com/datawhalechina/team-learning-sql/blob/main/Task03%EF%BC%9A%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#33-%E5%90%84%E7%A7%8D%E5%90%84%E6%A0%B7%E7%9A%84%E5%87%BD%E6%95%B0)
     - [x] [3.3 各种各样的函数](https://github.com/datawhalechina/team-learning-sql/blob/main/Task03%EF%BC%9A%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#33-%E5%90%84%E7%A7%8D%E5%90%84%E6%A0%B7%E7%9A%84%E5%87%BD%E6%95%B0)
     - [x] [3.4 谓词](https://github.com/datawhalechina/team-learning-sql/blob/main/Task03%EF%BC%9A%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#34-%E8%B0%93%E8%AF%8D)
     - [x] [3.5 CASE 表达式](https://github.com/datawhalechina/team-learning-sql/blob/main/Task03%EF%BC%9A%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#35-case-%E8%A1%A8%E8%BE%BE%E5%BC%8F)
 
-* Task04：集合运算
+* ch04：集合运算
     - [x] [4.1 表的加减法](https://github.com/datawhalechina/team-learning-sql/blob/main/Task04%EF%BC%9A%E9%9B%86%E5%90%88%E8%BF%90%E7%AE%97.md#41-%E8%A1%A8%E7%9A%84%E5%8A%A0%E5%87%8F%E6%B3%95)
     - [x] [4.2 连结(JOIN)](https://github.com/datawhalechina/team-learning-sql/blob/main/Task04%EF%BC%9A%E9%9B%86%E5%90%88%E8%BF%90%E7%AE%97.md#42-%E8%BF%9E%E7%BB%93join)
 
-* Task05：SQL高级处理
+* ch05：SQL高级处理
     - [x] [5.1 窗口函数](https://github.com/datawhalechina/team-learning-sql/blob/main/Task05%EF%BC%9ASQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#51-%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0)
     - [x] [5.2 窗口函数种类](https://github.com/datawhalechina/team-learning-sql/blob/main/Task05%EF%BC%9ASQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#52-%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0%E7%A7%8D%E7%B1%BB)
     - [x] [5.3 窗口函数的的应用 - 计算移动平均](https://github.com/datawhalechina/team-learning-sql/blob/main/Task05%EF%BC%9ASQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#53-%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0%E7%9A%84%E7%9A%84%E5%BA%94%E7%94%A8---%E8%AE%A1%E7%AE%97%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%9D%87)
     - [x] [5.4 GROUPING运算符](https://github.com/datawhalechina/team-learning-sql/blob/main/Task05%EF%BC%9ASQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#54-grouping%E8%BF%90%E7%AE%97%E7%AC%A6)
 
-* Task06：综合练习
+* ch06：秋招秘籍 A
     - [x] [6.1 练习一: 各部门工资最高的员工（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%B8%80-%E5%90%84%E9%83%A8%E9%97%A8%E5%B7%A5%E8%B5%84%E6%9C%80%E9%AB%98%E7%9A%84%E5%91%98%E5%B7%A5%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
     - [x] [6.2 练习二: 换座位（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%BA%8C-%E6%8D%A2%E5%BA%A7%E4%BD%8D%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
     - [x] [6.3 练习三: 分数排名（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%B8%89--%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
