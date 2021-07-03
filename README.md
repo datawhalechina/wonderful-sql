@@ -1,5 +1,5 @@
 # wonderful-sql
-sql 学习教程，秋招秘籍。
+Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 
 
 # SQL基础教程学习笔记（team-learning-sql）
