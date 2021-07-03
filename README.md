@@ -63,7 +63,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 
     测试中存在部分人打不开在线教程的情况。
 
-    部分小伙伴反馈尝试切换浏览器后可以正常打开了，还可以参考[提高国内访问 GitHub 的速度的 9 种方案](https://mp.weixin.qq.com/s/sHQ0yjqYNgEb1Bw_X0BxZg) 尝试打开。
+    部分小伙伴反馈尝试切换浏览器后可以正常打开了，还可以参考 [提高国内访问 GitHub 的速度的 9 种方案](https://mp.weixin.qq.com/s/sHQ0yjqYNgEb1Bw_X0BxZg) 中介绍的方法尝试打开。
     
     如果仍然不行，最有效的解决办法是科学上网。
 
