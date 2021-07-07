@@ -14,7 +14,7 @@
 <窗口函数> OVER ([PARTITION BY <列名>]
                      ORDER BY <排序用列名>)  
 ```
-*[]中的内容可以省略。
+[   ]中的内容可以省略。
 窗口函数最关键的是搞明白关键字**PARTITON BY**和**ORDER BY**的作用。
 
 **PARTITON BY**是用来分组，即选择要看哪个窗口，类似于GROUP BY 子句的分组功能，但是PARTITION BY 子句并不具备GROUP BY 子句的汇总功能，并不会改变原始表中记录的行数。
