@@ -69,7 +69,7 @@ INSERT INTO t_act_records VALUES('u1004', 20210103);
 INSERT INTO t_act_records VALUES('u1004', 20210104);
 INSERT INTO t_act_records VALUES('u1004', 20210105);
 ```
-
+# 练习四：hive 数据倾斜的产生原因及优化策略？
 
 
 
