@@ -63,10 +63,10 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 
 
 * ch08：秋招秘籍 C
-    - [x] [8.1 练习一: 各部门工资最高的员工（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E4%B8%80%E8%A1%8C%E8%BD%AC%E5%88%97)
-    - [x] [8.2 练习二: 各部门工资最高的员工（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E4%BA%8C%E5%88%97%E8%BD%AC%E8%A1%8C)
-    - [x] [8.3 练习三: 各部门工资最高的员工（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E4%B8%89%E8%BF%9E%E7%BB%AD%E7%99%BB%E5%BD%95)
-    - [x] [8.4 练习四: 各部门工资最高的员工（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E5%9B%9Bhive-%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C%E7%9A%84%E4%BA%A7%E7%94%9F%E5%8E%9F%E5%9B%A0%E5%8F%8A%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5)
+    - [x] [8.1 练习一: 行转列（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E4%B8%80%E8%A1%8C%E8%BD%AC%E5%88%97)
+    - [x] [8.2 练习二: 列转行（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E4%BA%8C%E5%88%97%E8%BD%AC%E8%A1%8C)
+    - [x] [8.3 练习三: 连续登录（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E4%B8%89%E8%BF%9E%E7%BB%AD%E7%99%BB%E5%BD%95)
+    - [x] [8.4 练习四: hive 数据倾斜的产生原因及优化策略（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E5%9B%9Bhive-%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C%E7%9A%84%E4%BA%A7%E7%94%9F%E5%8E%9F%E5%9B%A0%E5%8F%8A%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5)
 
 
 ## 常见问题
