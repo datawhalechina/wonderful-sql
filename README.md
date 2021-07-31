@@ -91,7 +91,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 感谢以下Datawhale成员对项目推进作出的贡献（排名不分先后）：
 
 <table align="center" style="width:80%;">
-  <caption><b>贡献者名单</b></caption>
+  <caption><b>内容贡献者名单</b></caption>
 <thead>
   <tr>
     <th>成员</th>
@@ -138,11 +138,6 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
   <tr>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">汪健麟</span></td>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">电子科技大学硕士，Datawhale成员，内测小组成员</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><span style="font-weight:normal;font-style:normal;text-decoration:none">苏丽敏</span></td>
-    <td><span style="font-weight:normal;font-style:normal;text-decoration:none">北京理工大学硕士，Datawhale成员，助教</td>
     <td></td>
   </tr>
 </tbody>
