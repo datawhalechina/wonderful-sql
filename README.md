@@ -148,4 +148,4 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 
 > "Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。"
 
-<img src="https://github.com/datawhalechina/team-learning-sql/blob/main/img/datawhale_code.jpeg" width="175" height= "200">
+<img src="./img/datawhale_code.jpeg" width="175" height= "200">
