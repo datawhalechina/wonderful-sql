@@ -35,7 +35,7 @@ SELECT product_name
 
 得到的结果是:
 
-![图片](https://github.com/datawhalechina/team-learning-sql/blob/main/img/ch05/ch0501.png)
+![图片](./img/ch05/ch0501.png)
 
 我们先忽略生成的新列 - [ranking]， 看下原始数据在PARTITION BY 和 ORDER BY 关键字的作用下发生了什么变化。
 
@@ -46,7 +46,7 @@ ORDER BY 能够指定按照哪一列、何种顺序进行排序。为了按照�
 升序进行排序。本例中就省略了上述关键字 。
 
 
-![图片](https://github.com/datawhalechina/team-learning-sql/blob/main/img/ch05/ch0502.png)
+![图片](./img/ch05/ch0502.png)
 
 
 
@@ -90,7 +90,7 @@ SELECT  product_name
   FROM product  
 ```
 
-![图片](https://github.com/datawhalechina/team-learning-sql/blob/main/img/ch05/ch0503.png)
+![图片](./img/ch05/ch0503.png)
 
 
 ## 5.2.2 聚合函数在窗口函数上的使用
@@ -108,9 +108,9 @@ SELECT  product_id
   FROM product;  
 ```
 
-![图片](https://github.com/datawhalechina/team-learning-sql/blob/main/img/ch05/ch0504.png)
+![图片](./img/ch05/ch0504.png)
 
-![图片](https://github.com/datawhalechina/team-learning-sql/blob/main/img/ch05/ch0505.png)
+![图片](./img/ch05/ch0505.png)
 
 可以看出，聚合函数结果是，按我们指定的排序，这里是product_id，**当前所在行及之前所有的行**的合计或均值。即累计到当前行的聚合。
 
@@ -154,11 +154,11 @@ SELECT  product_id
 
 ROWS 2 PRECEDING：
 
-![图片](https://github.com/datawhalechina/team-learning-sql/blob/main/img/ch05/ch0506.png)
+![图片](./img/ch05/ch0506.png)
 
 ROWS BETWEEN 1 PRECEDING AND 1 FOLLOWING：
 
-![图片](https://github.com/datawhalechina/team-learning-sql/blob/main/img/ch05/ch0507.png)
+![图片](./img/ch05/ch0507.png)
 
 ## 5.3.1 窗口函数适用范围和注意事项
 
@@ -179,15 +179,15 @@ SELECT  product_type
 ```
 得到的结果为：
 
-![图片](https://github.com/datawhalechina/team-learning-sql/blob/main/img/ch05/ch0508.png)
+![图片](./img/ch05/ch0508.png)
 
-![图片](https://github.com/datawhalechina/team-learning-sql/blob/main/img/ch05/ch0509.png)
+![图片](./img/ch05/ch0509.png)
 
 这里ROLLUP 对product_type, regist_date两列进行合计汇总。结果实际上有三层聚合，如下图 模块3是常规的 GROUP BY 的结果，需要注意的是衣服 有个注册日期为空的，这是本来数据就存在日期为空的，不是对衣服类别的合计； 模块2和1是 ROLLUP 带来的合计，模块2是对产品种类的合计，模块1是对全部数据的总计。
 
 ROLLUP 可以对多列进行汇总求小计和合计。
 
-# ![图片](https://github.com/datawhalechina/team-learning-sql/blob/main/img/ch05/ch0510.png)
+# ![图片](./img/ch05/ch0510.png)
 
 # 练习题
 
