@@ -73,6 +73,10 @@ INSERT INTO t_act_records VALUES('u1004', 20210105);
 
 
 
+# 写一写本次组队学习的收获的感受。
+
+
+
 
 
 
