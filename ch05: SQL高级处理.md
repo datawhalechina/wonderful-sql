@@ -30,7 +30,7 @@ SELECT product_name
        ,sale_price
        ,RANK() OVER (PARTITION BY product_type
                          ORDER BY sale_price) AS ranking
-  FROM product  
+  FROM product;  
 ```
 
 得到的结果是:
@@ -87,7 +87,7 @@ SELECT  product_name
        ,RANK() OVER (ORDER BY sale_price) AS ranking
        ,DENSE_RANK() OVER (ORDER BY sale_price) AS dense_ranking
        ,ROW_NUMBER() OVER (ORDER BY sale_price) AS row_num
-  FROM product  
+  FROM product;  
 ```
 
 ![图片](./img/ch05/ch0503.png)
@@ -145,7 +145,7 @@ SELECT  product_id
        ,AVG(sale_price) OVER (ORDER BY product_id
                                ROWS BETWEEN 1 PRECEDING 
                                         AND 1 FOLLOWING) AS moving_avg  
-  FROM product  
+  FROM product;  
 ```
 
 **执行结果：**
@@ -175,7 +175,7 @@ SELECT  product_type
        ,regist_date
        ,SUM(sale_price) AS sum_price
   FROM product
- GROUP BY product_type, regist_date WITH ROLLUP  
+ GROUP BY product_type, regist_date WITH ROLLUP;  
 ```
 得到的结果为：
 
@@ -200,7 +200,7 @@ SELECT  product_id
        ,product_name
        ,sale_price
        ,MAX(sale_price) OVER (ORDER BY product_id) AS Current_max_price
-  FROM product
+  FROM product;
 ```
 ## **5.2**
 
