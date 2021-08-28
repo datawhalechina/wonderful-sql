@@ -199,7 +199,7 @@
 
 uid是用户id；action的值为：“show”， “answer”， “skip”；当action是"answer"时，answer_id不为空，相反，当action是"show"和"skip"时为空（null）；q_num是问题的数字序号。
 
-写一条sql语句找出回答率最高的问题。
+写一条sql语句找出回答率最高的 `question_id`。
 
 **举例：**
 
@@ -214,7 +214,7 @@ uid是用户id；action的值为：“show”， “answer”， “skip”；�
 
 **输出**
 
-|survey_log  |
+|question_id  |
 |:----|
 |285      |
 
