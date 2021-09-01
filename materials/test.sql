@@ -48,16 +48,14 @@ INSERT INTO seat VALUES(5,'Jeames');
 -- 练习三
 DROP TABLE if exists score;
 CREATE TABLE score
-(id INT,
-score FLOAT(3,2),
-PRIMARY KEY (id));
+(class INT,
+score_avg INT,
+PRIMARY KEY (class));
 
-INSERT INTO score VALUES(1,3.50);
-INSERT INTO score VALUES(2,3.65);
-INSERT INTO score VALUES(3,4.00);
-INSERT INTO score VALUES(4,3.85);
-INSERT INTO score VALUES(5,4.00);
-INSERT INTO score VALUES(6,3.65);
+INSERT INTO score VALUES(1, 93);
+INSERT INTO score VALUES(2, 93);
+INSERT INTO score VALUES(3, 93);
+INSERT INTO score VALUES(4, 91);
 
 
 -- 练习四
