@@ -72,6 +72,15 @@ INSERT INTO t_act_records VALUES('u1004', 20210105);
 # 练习四：hive 数据倾斜的产生原因及优化策略？
 
 
+# 练习五：假设 A表有5行（关联列 name 有2行为空），B表有6行（关联列 name 有3行为空）那么 A left join B on A.name = B.name 会返回多少行结果？
+可以参考下图
+A表
+[]()
+
+B表
+[]()
+
+
 
 # 写一写本次组队学习的收获和感受。
 
