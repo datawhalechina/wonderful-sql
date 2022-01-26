@@ -189,6 +189,56 @@ ROLLUP 可以对多列进行汇总求小计和合计。
 
 # ![图片](./img/ch05/ch0510.png)
 
+# 5.5 存储过程和函数
+
+## 5.5.1 基本介绍
+
+基本语法：
+```sql
+[delimiter //]($$，可以是其他特殊字符）
+CREATE
+    [DEFINER = user]
+    PROCEDURE sp_name ([proc_parameter[,...]])
+    [characteristic ...] 
+[BEGIN]
+  routine_body
+[END//]($$，可以是其他特殊字符）
+```
+这些语句被用来创建一个存储例程（一个存储过程或函数）。也就是说，指定的例程被服务器知道了。默认情况下，一个存储例程与默认数据库相关联。要将该例程明确地与一个给定的数据库相关联，需要在创建该例程时将其名称指定为 `db_name.sp_name`。
+
+使用CALL语句调用一个存储过程。而要调用一个存储的函数时，则要在表达式中引用它。在表达式计算期间，该函数返回一个值。
+
+`routine_body` 由一个有效的SQL例程语句组成。这可以是一个简单的语句，如 `SELECT` 或 `INSERT`，或一个使用 `BEGIN` 和 `END` 编写的复合语句。复合语句可以包含声明、循环和其他控制结构语句。在实践中，存储函数倾向于使用复合语句，除非主体由一个RETURN语句组成。
+
+## 5.5.2 参数介绍
+
+存储过程和函数的参数有三类，分别是：`IN`，`OUT`，`INOUT`，其中：
+- `IN` 是入参
+- `OUT` 是出参
+- `INOUT` 是xxx
+
+## 5.5.2 应用示例
+
+- 创建表
+```SQL
+DELIMITER $$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `procedure_test`()
+BEGIN
+    #Routine body goes here...
+    CREATE TABLE shop_test like shop;
+END$$
+```
+- 插入数据
+```SQL
+DELIMITER $$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `procedure_test`()
+BEGIN
+    #Routine body goes here...
+    SELECT xxx INTO xxx;
+    INSERT INTO shop (xxx) VALUES (xxx);
+END$$
+```
+
 # 练习题
 
 ## **5.1**
