@@ -288,14 +288,28 @@ END$$
 
 # 5.6 预处理声明 PREPARE Statement
 
-MySQL 从4.1版本开始使用
+MySQL 从4.1版本开始引入了 `PREPARE Statement` 特性，使用 `client/server binary protocol` 代替 `textual protocol`，其将包含占位符 （） 的查询传递给 MySQL 服务器，如以下示例所示：
+```sql
+SELECT * 
+FROM products 
+WHERE productCode = ?;
+```
+当MySQL使用不同的 `productCode` 值执行此查询时，它不必完全解析查询。因此，这有助于MySQL更快地执行查询，特别是当MySQL多次执行相同的查询时。productcode
+
+由于预准备语句使用占位符 （），这有助于避免 SQL 注入的许多变体，从而使应用程序更安全。
 
 基本语法：
 ```sql
 PREPARE stmt_name FROM preparable_stmt
 ```
 
-## 5.6.1 基本介绍
+## 5.6.1 使用步骤
+
+`MySQL PREPARE Statement` 使用步骤如下：
+
+1. PREPARE – 准备需要执行的语句预处理声明。
+2. EXECUTE – 执行预处理声明。
+3. DEALLOCATE PREPARE – 释放预处理声明。
 
 
 
