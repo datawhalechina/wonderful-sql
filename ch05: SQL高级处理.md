@@ -324,7 +324,7 @@ PREPARE stmt_name FROM preparable_stmt
 PREPARE stmt1 FROM 
 	'SELECT 
    	    product_id, 
-        product_name 
+            product_name 
 	FROM product
         WHERE product_id = ?';
 ```
