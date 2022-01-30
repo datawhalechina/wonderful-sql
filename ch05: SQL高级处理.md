@@ -277,13 +277,17 @@ mysql> show tables;
 ```
 - 插入数据
 ```SQL
-DELIMITER $$
-CREATE DEFINER=`root`@`localhost` PROCEDURE `procedure_test`()
+CREATE DEFINER=`root`@`localhost` PROCEDURE `insert_product_test`()
 BEGIN
-    #Routine body goes here...
-    SELECT xxx INTO xxx;
-    INSERT INTO shop (xxx) VALUES (xxx);
-END$$
+    declare i int;
+    set i=1;
+    while i<9 do
+        set @pcid = CONCAT('000', i);
+        PREPARE stmt FROM 'INSERT INTO product_test() SELECT * FROM shop.product where product_id= ?';
+        EXECUTE stmt USING @pcid;
+        set i=i+1;
+    end while;
+END
 ```
 
 # 5.6 预处理声明 PREPARE Statement
