@@ -315,7 +315,43 @@ PREPARE stmt_name FROM preparable_stmt
 
 # ![图片](./img/ch05/ch0511MySQL-Prepared-Statement.png)
 
+## 5.6.2 使用示例
 
+这里使用 `shop` 中的 `product` 表进行演示。
+
+首先，定义预处理声明如下：
+```sql
+PREPARE stmt1 FROM 
+	'SELECT 
+   	    product_id, 
+        product_name 
+	FROM product
+        WHERE product_id = ?';
+```
+其次，声明变量 `pcid`，代表商品编号，并将其值设置为 `0005`：
+```sql
+SET @pcid = '0005'; 
+```
+第三，执行预处理声明：
+```sql
+EXECUTE stmt1 USING @pcid;
+```
+# ![图片](./img/ch05/ch0512-prepare-result1.png)
+
+第四，为变量 `pcid` 分配另外一个商品编号：
+```sql
+SET @pcid = '0008'; 
+```
+第五，使用新的商品编号执行预处理声明：
+```sql
+EXECUTE stmt1 USING @pcid;
+```
+# ![图片](./img/ch05/ch0513-prepare-result2.png)
+
+最后，释放预处理声明以释放其占用的资源：
+```sql
+DEALLOCATE PREPARE stmt1;
+```
 
 # 练习题
 
