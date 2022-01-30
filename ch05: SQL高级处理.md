@@ -311,6 +311,10 @@ PREPARE stmt_name FROM preparable_stmt
 2. EXECUTE – 执行预处理声明。
 3. DEALLOCATE PREPARE – 释放预处理声明。
 
+下图说明了预处理声明的使用过程：
+
+# ![图片](./img/ch05/ch0511MySQL-Prepared-Statement.png)
+
 
 
 # 练习题
