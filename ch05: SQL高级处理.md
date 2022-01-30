@@ -382,5 +382,11 @@ SELECT  product_id
 
 ② 为什么说窗口函数只能在SELECT子句中使用？实际上，在ORDER BY 子句使用系统并不会报错。
 
+## **5.4**
+
+创建20个与 `shop.product` 表结构相同的表，如下图所示：
+
+# ![图片](./img/ch05/ch0514-question5.4.png)
+
 
 
