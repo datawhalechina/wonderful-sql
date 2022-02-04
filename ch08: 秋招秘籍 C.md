@@ -92,7 +92,7 @@ INSERT INTO t_act_records VALUES('u1004', 20210105);
 
 A表：![图片](./img/Question_C/C05A.jpg)     B表：![图片](./img/Question_C/C05B.jpg)
 
-# 写一写本次组队学习的收获和感受。
+# 写一写本次学习的收获和感受。
 
 
 
