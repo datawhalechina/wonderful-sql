@@ -384,7 +384,7 @@ SELECT  product_id
 
 ## **5.4**
 
-创建20个与 `shop.product` 表结构相同的表，如下图所示：
+使用简洁的方法创建20个与 `shop.product` 表结构相同的表，如下图所示：
 
 # ![图片](./img/ch05/ch0514-question5.4.png)
 
