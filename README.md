@@ -113,7 +113,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 <tbody>
   <tr>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">王复振</span></td>
-    <td><span style="font-weight:normal;font-style:normal;text-decoration:none">Datawhale成员，项目负责人，Task00/01/03内容构建 </td>
+    <td><span style="font-weight:normal;font-style:normal;text-decoration:none">Datawhale成员，项目负责人，Task00/01/03/05/06内容构建 </td>
     <td><a href="https://blog.csdn.net/mba1398">CSDN博客</a></td>
   </tr>
   <tr>
