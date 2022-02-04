@@ -46,7 +46,8 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 
 * ch06：秋招秘籍 A
     - Section A
-    -- [x] [6.1 练习一: 各部门工资最高的员工（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%B8%80-%E5%90%84%E9%83%A8%E9%97%A8%E5%B7%A5%E8%B5%84%E6%9C%80%E9%AB%98%E7%9A%84%E5%91%98%E5%B7%A5%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
+    
+        - [x] [6.1 练习一: 各部门工资最高的员工（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%B8%80-%E5%90%84%E9%83%A8%E9%97%A8%E5%B7%A5%E8%B5%84%E6%9C%80%E9%AB%98%E7%9A%84%E5%91%98%E5%B7%A5%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
     - [x] [6.2 练习二: 换座位（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%BA%8C-%E6%8D%A2%E5%BA%A7%E4%BD%8D%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
     - [x] [6.3 练习三: 分数排名（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%B8%89--%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
     - [x] [6.4 练习四：连续出现的数字（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E5%9B%9B%E8%BF%9E%E7%BB%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%95%B0%E5%AD%97%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
