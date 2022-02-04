@@ -44,33 +44,36 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
     - [x] [5.3 窗口函数的的应用 - 计算移动平均](https://github.com/datawhalechina/team-learning-sql/blob/main/Task05%EF%BC%9ASQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#53-%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0%E7%9A%84%E7%9A%84%E5%BA%94%E7%94%A8---%E8%AE%A1%E7%AE%97%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%9D%87)
     - [x] [5.4 GROUPING运算符](https://github.com/datawhalechina/team-learning-sql/blob/main/Task05%EF%BC%9ASQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#54-grouping%E8%BF%90%E7%AE%97%E7%AC%A6)
 
-* ch06：秋招秘籍 A
+* ch06：决胜秋招
+
     - Section A
     
-        - [x] [6.1 练习一: 各部门工资最高的员工（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%B8%80-%E5%90%84%E9%83%A8%E9%97%A8%E5%B7%A5%E8%B5%84%E6%9C%80%E9%AB%98%E7%9A%84%E5%91%98%E5%B7%A5%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
-    - [x] [6.2 练习二: 换座位（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%BA%8C-%E6%8D%A2%E5%BA%A7%E4%BD%8D%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
-    - [x] [6.3 练习三: 分数排名（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%B8%89--%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
-    - [x] [6.4 练习四：连续出现的数字（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E5%9B%9B%E8%BF%9E%E7%BB%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%95%B0%E5%AD%97%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
-    - [x] [6.5 练习五：树节点 （难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%BA%94%E6%A0%91%E8%8A%82%E7%82%B9-%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
-    - [x] [6.6 练习六：至少有五名直接下属的经理 （难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E5%85%AD%E8%87%B3%E5%B0%91%E6%9C%89%E4%BA%94%E5%90%8D%E7%9B%B4%E6%8E%A5%E4%B8%8B%E5%B1%9E%E7%9A%84%E7%BB%8F%E7%90%86-%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
-    - [x] [6.7 练习七：查询回答率最高的问题 （难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E5%85%AB%E6%9F%A5%E8%AF%A2%E5%9B%9E%E7%AD%94%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E9%97%AE%E9%A2%98-%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
-    - [x] [6.8 练习八：各部门前3高工资的员工（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%B9%9D%E5%90%84%E9%83%A8%E9%97%A8%E5%89%8D3%E9%AB%98%E5%B7%A5%E8%B5%84%E7%9A%84%E5%91%98%E5%B7%A5%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
-    - [x] [6.9 练习九：平面上最近距离 (难度: 困难）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E5%8D%81%E5%B9%B3%E9%9D%A2%E4%B8%8A%E6%9C%80%E8%BF%91%E8%B7%9D%E7%A6%BB-%E9%9A%BE%E5%BA%A6-%E5%9B%B0%E9%9A%BE)
-    - [x] [6.10 练习十：行程和用户（难度：困难）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E5%8D%81%E4%B8%80%E8%A1%8C%E7%A8%8B%E5%92%8C%E7%94%A8%E6%88%B7%E9%9A%BE%E5%BA%A6%E5%9B%B0%E9%9A%BE)
+        - [x] [练习一: 各部门工资最高的员工（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%B8%80-%E5%90%84%E9%83%A8%E9%97%A8%E5%B7%A5%E8%B5%84%E6%9C%80%E9%AB%98%E7%9A%84%E5%91%98%E5%B7%A5%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
+        - [x] [练习二: 换座位（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%BA%8C-%E6%8D%A2%E5%BA%A7%E4%BD%8D%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
+        - [x] [练习三: 分数排名（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%B8%89--%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
+        - [x] [练习四：连续出现的数字（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E5%9B%9B%E8%BF%9E%E7%BB%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%95%B0%E5%AD%97%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
+        - [x] [练习五：树节点 （难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%BA%94%E6%A0%91%E8%8A%82%E7%82%B9-%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
+        - [x] [练习六：至少有五名直接下属的经理 （难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E5%85%AD%E8%87%B3%E5%B0%91%E6%9C%89%E4%BA%94%E5%90%8D%E7%9B%B4%E6%8E%A5%E4%B8%8B%E5%B1%9E%E7%9A%84%E7%BB%8F%E7%90%86-%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
+        - [x] [练习七：查询回答率最高的问题 （难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E5%85%AB%E6%9F%A5%E8%AF%A2%E5%9B%9E%E7%AD%94%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E9%97%AE%E9%A2%98-%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
+        - [x] [练习八：各部门前3高工资的员工（难度：中等）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E4%B9%9D%E5%90%84%E9%83%A8%E9%97%A8%E5%89%8D3%E9%AB%98%E5%B7%A5%E8%B5%84%E7%9A%84%E5%91%98%E5%B7%A5%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
+        - [x] [练习九：平面上最近距离 (难度: 困难）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E5%8D%81%E5%B9%B3%E9%9D%A2%E4%B8%8A%E6%9C%80%E8%BF%91%E8%B7%9D%E7%A6%BB-%E9%9A%BE%E5%BA%A6-%E5%9B%B0%E9%9A%BE)
+        - [x] [练习十：行程和用户（难度：困难）](https://github.com/datawhalechina/team-learning-sql/blob/main/Task06%EF%BC%9A%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0.md#%E7%BB%83%E4%B9%A0%E5%8D%81%E4%B8%80%E8%A1%8C%E7%A8%8B%E5%92%8C%E7%94%A8%E6%88%B7%E9%9A%BE%E5%BA%A6%E5%9B%B0%E9%9A%BE)
 
-* ch07：秋招秘籍 B
-    - [x] [7.1 练习一: 行转列（难度：中等））](https://github.com/datawhalechina/wonderful-sql/blob/main/ch07:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20B.md#%E7%BB%83%E4%B9%A0%E4%B8%80%E8%A1%8C%E8%BD%AC%E5%88%97)
-    - [x] [7.2 练习二: 列转行（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch07:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20B.md#%E7%BB%83%E4%B9%A0%E4%BA%8C%E5%88%97%E8%BD%AC%E8%A1%8C)
-    - [x] [7.3 练习三: 带货主播谁（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch07:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20B.md#%E7%BB%83%E4%B9%A0%E4%B8%89%E5%B8%A6%E8%B4%A7%E4%B8%BB%E6%92%AD)
-    - [x] [7.4 练习四: MySQL 中如何查看sql语句的执行计划？可以看到哪些信息？（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch07:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20B.md#%E7%BB%83%E4%B9%A0%E5%9B%9Bmysql-%E4%B8%AD%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8Bsql%E8%AF%AD%E5%8F%A5%E7%9A%84%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF)
-    - [x] [7.5 练习五: 解释一下 SQL 数据库中 ACID 是指什么？（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch07:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20B.md#%E7%BB%83%E4%B9%A0%E4%BA%94%E8%A7%A3%E9%87%8A%E4%B8%80%E4%B8%8B-sql-%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD-acid-%E6%98%AF%E6%8C%87%E4%BB%80%E4%B9%88)
+    - Section B
+    
+        - [x] [练习一: 行转列（难度：中等））](https://github.com/datawhalechina/wonderful-sql/blob/main/ch07:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20B.md#%E7%BB%83%E4%B9%A0%E4%B8%80%E8%A1%8C%E8%BD%AC%E5%88%97)
+        - [x] [练习二: 列转行（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch07:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20B.md#%E7%BB%83%E4%B9%A0%E4%BA%8C%E5%88%97%E8%BD%AC%E8%A1%8C)
+        - [x] [练习三: 带货主播谁（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch07:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20B.md#%E7%BB%83%E4%B9%A0%E4%B8%89%E5%B8%A6%E8%B4%A7%E4%B8%BB%E6%92%AD)
+        - [x] [练习四: MySQL 中如何查看sql语句的执行计划？可以看到哪些信息？（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch07:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20B.md#%E7%BB%83%E4%B9%A0%E5%9B%9Bmysql-%E4%B8%AD%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8Bsql%E8%AF%AD%E5%8F%A5%E7%9A%84%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF)
+        - [x] [练习五: 解释一下 SQL 数据库中 ACID 是指什么？（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch07:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20B.md#%E7%BB%83%E4%B9%A0%E4%BA%94%E8%A7%A3%E9%87%8A%E4%B8%80%E4%B8%8B-sql-%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD-acid-%E6%98%AF%E6%8C%87%E4%BB%80%E4%B9%88)
 
 
-* ch08：秋招秘籍 C
-    - [x] [8.1 练习一: 行转列（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E4%B8%80%E8%A1%8C%E8%BD%AC%E5%88%97)
-    - [x] [8.2 练习二: 列转行（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E4%BA%8C%E5%88%97%E8%BD%AC%E8%A1%8C)
-    - [x] [8.3 练习三: 连续登录（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E4%B8%89%E8%BF%9E%E7%BB%AD%E7%99%BB%E5%BD%95)
-    - [x] [8.4 练习四: hive 数据倾斜的产生原因及优化策略（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E5%9B%9Bhive-%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C%E7%9A%84%E4%BA%A7%E7%94%9F%E5%8E%9F%E5%9B%A0%E5%8F%8A%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5)
+    - Section C
+    
+        - [x] [练习一: 行转列（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E4%B8%80%E8%A1%8C%E8%BD%AC%E5%88%97)
+        - [x] [练习二: 列转行（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E4%BA%8C%E5%88%97%E8%BD%AC%E8%A1%8C)
+        - [x] [练习三: 连续登录（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E4%B8%89%E8%BF%9E%E7%BB%AD%E7%99%BB%E5%BD%95)
+        - [x] [练习四: hive 数据倾斜的产生原因及优化策略（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch08:%20%E7%A7%8B%E6%8B%9B%E7%A7%98%E7%B1%8D%20C.md#%E7%BB%83%E4%B9%A0%E5%9B%9Bhive-%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C%E7%9A%84%E4%BA%A7%E7%94%9F%E5%8E%9F%E5%9B%A0%E5%8F%8A%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5)
 
 
 ## 常见问题
