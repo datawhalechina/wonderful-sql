@@ -1,4 +1,4 @@
-/* v 2021.8
+/*  2022.02.05
 SQL脚本的一些要点:
 0.存储引擎使用 InnoDB, 字符集改为 utf8mb4 以更好地支持中文.
 1.所有表名所使用的英文字母都改为小写(后续章节中,SQL查询中的表名也需要相应修改为小写)
@@ -208,3 +208,6 @@ CREATE TABLE `skills` (
 /*Data for the table `skills` */
 
 insert  into `skills`(`skill`) values ('Java'),('Oracle'),('UNIX');
+
+CREATE view `view_product` as
+SELECT * FROM product;
