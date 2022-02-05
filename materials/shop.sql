@@ -10,7 +10,7 @@ SQL脚本的一些要点:
   * HeidiSQL 已测试通过
   * navicat 已测试通过
   * sqlyog 已测试通过
-  * 命令行 测试未通过. 插入中文数据时提示" Data too long for column 'product_name' at row 1"
+  * 命令行 测试未通过. 插入中文数据时提示" Data too long for column 'product_name' at row 1"，建议使用客户端进行数据库的创建和数据导入。
 */
 CREATE DATABASE /*!32312 IF NOT EXISTS*/`shop` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
 
