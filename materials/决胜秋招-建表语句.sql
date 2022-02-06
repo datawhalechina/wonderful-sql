@@ -5,7 +5,7 @@
 */
 
 -- task06:
--- 秋招秘籍A
+-- Section A
 -- 练习一
 DROP TABLE if EXISTS Employee;
 CREATE TABLE Employee
@@ -183,7 +183,7 @@ INSERT INTO Users VALUES (12,   'No',  'driver');
 INSERT INTO Users VALUES (13,   'No',  'driver');
 
 
--- 秋招秘籍B
+-- Section B
 -- 练习一
 DROP TABLE IF EXISTS `score2`;
 CREATE TABLE `score2` (
@@ -231,7 +231,7 @@ INSERT INTO anchor_sales VALUES('A', 20210103,  7500);
 INSERT INTO anchor_sales VALUES('C', 20210103, 80000);
 
 
--- 秋招秘籍C
+-- Section C
 -- 练习一
 DROP TABLE IF EXISTS row_col;
 create table row_col 
@@ -272,8 +272,4 @@ INSERT INTO t_act_records VALUES('u1004', 20210102);
 INSERT INTO t_act_records VALUES('u1004', 20210103);
 INSERT INTO t_act_records VALUES('u1004', 20210104);
 INSERT INTO t_act_records VALUES('u1004', 20210105);
-
-
-
-
 
