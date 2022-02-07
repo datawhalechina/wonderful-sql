@@ -18,6 +18,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 * ch01：初识数据库
     - [x] [1.1 初识数据库](https://github.com/datawhalechina/wonderful-sql/blob/main/ch01:%20%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93.md#11-%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93)
     - [x] [1.2 初识SQL](https://github.com/datawhalechina/wonderful-sql/blob/main/ch01:%20%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93.md#12-%E5%88%9D%E8%AF%86-sql)
+    - [x] [参考答案链接，本节打卡完毕后，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccnMduaNhilUIrlldFqmNWIzf)
 
 * ch02：基础查询与排序
     - [x] [2.1 SELECT语句基础](https://github.com/datawhalechina/wonderful-sql/blob/main/ch02:%20%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#21-select%E8%AF%AD%E5%8F%A5%E5%9F%BA%E7%A1%80)
