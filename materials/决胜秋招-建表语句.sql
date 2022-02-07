@@ -273,3 +273,51 @@ INSERT INTO t_act_records VALUES('u1004', 20210103);
 INSERT INTO t_act_records VALUES('u1004', 20210104);
 INSERT INTO t_act_records VALUES('u1004', 20210105);
 
+-- 练习五
+-- ----------------------------
+-- Table structure for t1
+-- ----------------------------
+DROP TABLE IF EXISTS `t1`;
+CREATE TABLE `t1`  (
+  `id` int NOT NULL,
+  `name` varchar(255)  NULL DEFAULT NULL,
+  `score` int NULL DEFAULT NULL,
+  PRIMARY KEY (`id`) USING BTREE
+) ENGINE = InnoDB ROW_FORMAT = Dynamic;
+
+-- ----------------------------
+-- Records of t1
+-- ----------------------------
+INSERT INTO `t1` VALUES (1, 'aaa', 90);
+INSERT INTO `t1` VALUES (2, 'bbb', 80);
+INSERT INTO `t1` VALUES (3, 'ccc', 70);
+INSERT INTO `t1` VALUES (4, 'ddd', 60);
+INSERT INTO `t1` VALUES (5, ''   , 90);
+INSERT INTO `t1` VALUES (6, ''   , 100);
+
+-- ----------------------------
+-- Table structure for t2
+-- ----------------------------
+DROP TABLE IF EXISTS `t2`;
+CREATE TABLE `t2`  (
+  `id` int NOT NULL,
+  `name` varchar(255) NULL DEFAULT NULL,
+  `city` varchar(255) NULL DEFAULT NULL,
+  PRIMARY KEY (`id`) USING BTREE
+) ENGINE = InnoDB ROW_FORMAT = Dynamic;
+
+-- ----------------------------
+-- Records of t2
+-- ----------------------------
+INSERT INTO `t2` VALUES (1, 'aaa', 'beijing');
+INSERT INTO `t2` VALUES (2, 'bbb', 'tianjin');
+INSERT INTO `t2` VALUES (3, 'ccc', 'chengdu');
+INSERT INTO `t2` VALUES (4, ''   , 'shenzhen');
+INSERT INTO `t2` VALUES (5, ''   , 'qingdao');
+INSERT INTO `t2` VALUES (6, ''   , 'guangzhou');
+
+
+
+
+
+
