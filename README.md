@@ -70,7 +70,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
     
         - [x] [练习一: 行转列（难度：中等））](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%B8%80%E8%A1%8C%E8%BD%AC%E5%88%97)
         - [x] [练习二: 列转行（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%BA%8C%E5%88%97%E8%BD%AC%E8%A1%8C)
-        - [x] [练习三: 带货主播谁（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%B8%89%E5%B8%A6%E8%B4%A7%E4%B8%BB%E6%92%AD)
+        - [x] [练习三: 谁是明星带货主播？（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%B8%89%E5%B8%A6%E8%B4%A7%E4%B8%BB%E6%92%AD)
         - [x] [练习四: MySQL 中如何查看sql语句的执行计划？可以看到哪些信息？（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E5%9B%9Bmysql-%E4%B8%AD%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8Bsql%E8%AF%AD%E5%8F%A5%E7%9A%84%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF)
         - [x] [练习五: 解释一下 SQL 数据库中 ACID 是指什么？（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%BA%94%E8%A7%A3%E9%87%8A%E4%B8%80%E4%B8%8B-sql-%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD-acid-%E6%98%AF%E6%8C%87%E4%BB%80%E4%B9%88)
 
