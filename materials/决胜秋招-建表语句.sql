@@ -6,7 +6,8 @@
 
 -- task06:
 -- Section A
--- 练习一
+
+-- 练习一：各部门工资最高的员工
 DROP TABLE if EXISTS Employee;
 CREATE TABLE Employee
 (id INT,
@@ -31,7 +32,7 @@ INSERT INTO Department VALUES(1,'IT');
 INSERT INTO Department VALUES(2,'Sales');
 
 
--- 练习二
+-- 练习二：换座位
 DROP TABLE if exists seat;
 CREATE TABLE seat
 (id INT,
@@ -45,7 +46,7 @@ INSERT INTO seat VALUES(4,'Green');
 INSERT INTO seat VALUES(5,'Jeames');
 
 
--- 练习三
+-- 练习三：分数排名
 DROP TABLE if exists score;
 CREATE TABLE score
 (class INT,
@@ -58,7 +59,7 @@ INSERT INTO score VALUES(3, 93);
 INSERT INTO score VALUES(4, 91);
 
 
--- 练习四
+-- 练习四：连续出现的数字
 DROP TABLE if exists logs;
 CREATE TABLE logs
 (id INT,
@@ -74,7 +75,7 @@ INSERT INTO logs VALUES (6, 2);
 INSERT INTO logs VALUES (7, 2);
 
 
--- 练习五
+-- 练习五：树节点
 DROP TABLE if exists tree;
 CREATE TABLE tree
 (id INT,
@@ -88,7 +89,7 @@ INSERT INTO tree VALUES (4, 2);
 INSERT INTO tree VALUES (5, 2);
 
 
--- 练习六
+-- 练习六：至少有五名直接下属的经理 
 DROP TABLE if exists Employee2;
 CREATE TABLE Employee2
 (id INT,
@@ -105,7 +106,7 @@ INSERT INTO Employee2 VALUES (105,  'Anne', 'A', 101);
 INSERT INTO Employee2 VALUES (106,   'Ron', 'B', 101);
 
 
--- 练习七
+-- 练习七：查询回答率最高的问题 
 DROP TABLE IF EXISTS survey_log;
 CREATE TABLE survey_log (
 	uid INT,
@@ -122,7 +123,7 @@ INSERT INTO survey_log VALUES (5, 'show', 369, NULL, 2, 125);
 INSERT INTO survey_log VALUES (5, 'skip', 369, NULL, 2, 126);
 
 
--- 练习八
+-- 练习八：各部门前3高工资的员工
 DROP TABLE IF EXISTS employee9;
 CREATE TABLE employee9 SELECT id, name, salary,departmentid FROM employee;
 
@@ -131,7 +132,7 @@ INSERT INTO employee9 VALUES(5, 'Janet', 69000, 1);
 INSERT INTO employee9 VALUES(6, 'Randy', 85000, 1);
 
 
--- 练习九
+-- 练习九：平面上最近距离
 DROP TABLE IF EXISTS point_2d;
 CREATE TABLE point_2d (
 	x INT,
@@ -143,7 +144,7 @@ INSERT INTO point_2d VALUES( 0,  0);
 INSERT INTO point_2d VALUES(-1, -2);
 
 
--- 练习十
+-- 练习十：行程和用户
 DROP TABLE if EXISTS Trips;
 CREATE TABLE Trips
 (Id INT,
@@ -184,7 +185,8 @@ INSERT INTO Users VALUES (13,   'No',  'driver');
 
 
 -- Section B
--- 练习一
+
+-- 练习一：行转列
 DROP TABLE IF EXISTS `score2`;
 CREATE TABLE `score2` (
   `name` varchar(20) DEFAULT NULL,
@@ -203,7 +205,7 @@ INSERT INTO score2 VALUES('C', 'math',    87);
 INSERT INTO score2 VALUES('C', 'english', 86);
 
 
--- 练习二
+-- 练习二：列转行
 DROP TABLE IF EXISTS `score22`;
 CREATE TABLE `score22` (
   `name` varchar(20) DEFAULT NULL,
@@ -216,7 +218,7 @@ INSERT INTO score22 VALUES('A', 99, 98, 97);
 INSERT INTO score22 VALUES('B', 92, 91, 90);
 INSERT INTO score22 VALUES('C', 88, 87, 86);
 
--- 练习三
+-- 练习三：谁是明星带货主播？
 DROP TABLE if EXISTS anchor_sales;
 CREATE TABLE anchor_sales
 (anchor_name  VARCHAR(20),
@@ -232,7 +234,8 @@ INSERT INTO anchor_sales VALUES('C', 20210103, 80000);
 
 
 -- Section C
--- 练习一
+
+-- 练习一：行转列
 DROP TABLE IF EXISTS row_col;
 create table row_col 
 (cdate date,
@@ -247,7 +250,7 @@ insert into row_col values ('2021-01-01','胜');
 insert into row_col values ('2021-01-03','负');
 
 
--- 练习二
+-- 练习二：列转行
 DROP TABLE IF EXISTS col_row;
 create table col_row 
 (`比赛日期` date
@@ -257,7 +260,7 @@ create table col_row
 insert into col_row values ('2021-01-01', 2, 1);
 insert into col_row values ('2021-01-03', 1, 2);
 
--- 练习三
+-- 练习三：连续登录
 DROP TABLE if EXISTS t_act_records;
 CREATE TABLE t_act_records
 (uid  VARCHAR(20),
@@ -273,7 +276,7 @@ INSERT INTO t_act_records VALUES('u1004', 20210103);
 INSERT INTO t_act_records VALUES('u1004', 20210104);
 INSERT INTO t_act_records VALUES('u1004', 20210105);
 
--- 练习四
+-- 练习四：用户购买商品推荐
 -- ----------------------------
 -- Table structure for orders
 -- ----------------------------
@@ -293,7 +296,7 @@ INSERT INTO `orders` VALUES (456, 1);
 INSERT INTO `orders` VALUES (456, 2);
 INSERT INTO `orders` VALUES (456, 4);
 
--- 练习六
+-- 练习六：LEFT JOIN 是否可能会出现多出的行？为什么？
 -- ----------------------------
 -- Table structure for t1
 -- ----------------------------
