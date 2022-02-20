@@ -49,13 +49,13 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
     - [x] [5.4 GROUPING运算符](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#54-grouping%E8%BF%90%E7%AE%97%E7%AC%A6)
     - [x] [5.5 存储过程和函数](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#55-%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E5%92%8C%E5%87%BD%E6%95%B0)
     - [x] [5.6 预处理声明 PREPARE Statement](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#56-%E9%A2%84%E5%A4%84%E7%90%86%E5%A3%B0%E6%98%8E-prepare-statement)
-    - [:white_check_mark:] [参考答案链接，本节打卡完毕后，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccn8YjyxIyV2aQ1J7mQdMHNrd)
+    - :white_check_mark: [参考答案链接，本节打卡完毕后，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccn8YjyxIyV2aQ1J7mQdMHNrd)
 
 * ch06：决胜秋招
 
     - Section A
     
-        - [x] [练习一: 各部门工资最高的员工（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%B8%80-%E5%90%84%E9%83%A8%E9%97%A8%E5%B7%A5%E8%B5%84%E6%9C%80%E9%AB%98%E7%9A%84%E5%91%98%E5%B7%A5%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
+        - :white_check_mark: [练习一: 各部门工资最高的员工（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%B8%80-%E5%90%84%E9%83%A8%E9%97%A8%E5%B7%A5%E8%B5%84%E6%9C%80%E9%AB%98%E7%9A%84%E5%91%98%E5%B7%A5%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
         - [x] [练习二: 换座位（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%BA%8C-%E6%8D%A2%E5%BA%A7%E4%BD%8D%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
         - [x] [练习三: 分数排名（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%B8%89--%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
         - [x] [练习四：连续出现的数字（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E5%9B%9B%E8%BF%9E%E7%BB%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%95%B0%E5%AD%97%E9%9A%BE%E5%BA%A6%E4%B8%AD%E7%AD%89)
