@@ -339,8 +339,3 @@ INSERT INTO `t2` VALUES (4, ''   , 'shenzhen');
 INSERT INTO `t2` VALUES (5, ''   , 'qingdao');
 INSERT INTO `t2` VALUES (6, ''   , 'guangzhou');
 
-
-
-
-
-
