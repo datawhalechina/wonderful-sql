@@ -273,7 +273,27 @@ INSERT INTO t_act_records VALUES('u1004', 20210103);
 INSERT INTO t_act_records VALUES('u1004', 20210104);
 INSERT INTO t_act_records VALUES('u1004', 20210105);
 
--- 练习五
+-- 练习四
+-- ----------------------------
+-- Table structure for orders
+-- ----------------------------
+DROP TABLE IF EXISTS `orders`;
+CREATE TABLE `orders`  (
+  `user_id` int NOT NULL,
+  `product_id` int NOT NULL
+) ENGINE = InnoDB CHARACTER SET = utf8mb4 COLLATE = utf8mb4_0900_ai_ci ROW_FORMAT = Dynamic;
+
+-- ----------------------------
+-- Records of orders
+-- ----------------------------
+INSERT INTO `orders` VALUES (123, 1);
+INSERT INTO `orders` VALUES (123, 2);
+INSERT INTO `orders` VALUES (123, 3);
+INSERT INTO `orders` VALUES (456, 1);
+INSERT INTO `orders` VALUES (456, 2);
+INSERT INTO `orders` VALUES (456, 4);
+
+-- 练习六
 -- ----------------------------
 -- Table structure for t1
 -- ----------------------------
