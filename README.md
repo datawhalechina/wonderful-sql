@@ -49,7 +49,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
     - [x] [5.4 GROUPING运算符](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#54-grouping%E8%BF%90%E7%AE%97%E7%AC%A6)
     - [x] [5.5 存储过程和函数](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#55-%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E5%92%8C%E5%87%BD%E6%95%B0)
     - [x] [5.6 预处理声明 PREPARE Statement](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#56-%E9%A2%84%E5%A4%84%E7%90%86%E5%A3%B0%E6%98%8E-prepare-statement)
-    - [x] [参考答案链接，本节打卡完毕后，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccn8YjyxIyV2aQ1J7mQdMHNrd)
+    - [:white_check_mark:] [参考答案链接，本节打卡完毕后，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccn8YjyxIyV2aQ1J7mQdMHNrd)
 
 * ch06：决胜秋招
 
@@ -80,7 +80,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
         - [x] [练习一: 行转列（难度：中等）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%B8%80%E8%A1%8C%E8%BD%AC%E5%88%97-1)
         - [x] [练习二: 列转行（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%BA%8C%E5%88%97%E8%BD%AC%E8%A1%8C-1)
         - [x] [练习三: 连续登录（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%B8%89%E8%BF%9E%E7%BB%AD%E7%99%BB%E5%BD%95)
-        - [x:white_check_mark:] [练习四: 用户购买商品推荐（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E5%9B%9B%E7%94%A8%E6%88%B7%E8%B4%AD%E4%B9%B0%E5%95%86%E5%93%81%E6%8E%A8%E8%8D%90)
+        - [:white_check_mark:] [练习四: 用户购买商品推荐（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E5%9B%9B%E7%94%A8%E6%88%B7%E8%B4%AD%E4%B9%B0%E5%95%86%E5%93%81%E6%8E%A8%E8%8D%90)
         - [x] [练习五: hive 数据倾斜的产生原因及优化策略（难度：困难）](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%B8%89%E8%BF%9E%E7%BB%AD%E7%99%BB%E5%BD%95)
         - [x] [练习六: LEFT JOIN 是否可能会出现多出的行？为什么？](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%BA%94left-join-%E6%98%AF%E5%90%A6%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%87%BA%E7%8E%B0%E5%A4%9A%E5%87%BA%E7%9A%84%E8%A1%8C%E4%B8%BA%E4%BB%80%E4%B9%88)
         - [x] [附加题: 写一写本次学习的收获。](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E5%86%99%E4%B8%80%E5%86%99%E6%9C%AC%E6%AC%A1%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%94%B6%E8%8E%B7)
