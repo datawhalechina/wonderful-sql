@@ -1,5 +1,3 @@
-# 目前已开始 datawhale 组队学习，组队期间关闭答案访问权限
-
 # wonderful-sql
 Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 
