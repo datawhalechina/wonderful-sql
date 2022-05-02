@@ -20,7 +20,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 * ch01：初识数据库
     - :white_check_mark: [1.1 初识数据库](https://github.com/datawhalechina/wonderful-sql/blob/main/ch01:%20%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93.md#11-%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93)
     - :white_check_mark: [1.2 初识SQL](https://github.com/datawhalechina/wonderful-sql/blob/main/ch01:%20%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93.md#12-%E5%88%9D%E8%AF%86-sql)
-    - :white_check_mark: [参考答案链接，本节打卡完毕后，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccnMduaNhilUIrlldFqmNWIzf)
+    - :white_check_mark: [参考答案链接，非打卡时间段，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccnMduaNhilUIrlldFqmNWIzf)
 
 * ch02：基础查询与排序
     - :white_check_mark: [2.1 SELECT语句基础](https://github.com/datawhalechina/wonderful-sql/blob/main/ch02:%20%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#21-select%E8%AF%AD%E5%8F%A5%E5%9F%BA%E7%A1%80)
@@ -29,7 +29,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
     - :white_check_mark: [2.4 对表进行聚合查询](https://github.com/datawhalechina/wonderful-sql/blob/main/ch02:%20%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#24-%E5%AF%B9%E8%A1%A8%E8%BF%9B%E8%A1%8C%E8%81%9A%E5%90%88%E6%9F%A5%E8%AF%A2)
     - :white_check_mark: [2.5 对表进行分组](https://github.com/datawhalechina/wonderful-sql/blob/main/ch02:%20%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#25-%E5%AF%B9%E8%A1%A8%E8%BF%9B%E8%A1%8C%E5%88%86%E7%BB%84)
     - :white_check_mark: [2.6 为聚合结果指定条件](https://github.com/datawhalechina/wonderful-sql/blob/main/ch02:%20%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#26-%E4%B8%BA%E8%81%9A%E5%90%88%E7%BB%93%E6%9E%9C%E6%8C%87%E5%AE%9A%E6%9D%A1%E4%BB%B6)
-    - :white_check_mark: [参考答案链接，本节打卡完毕后，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccnjASyISYXEDhI4W95Rycorh)
+    - :white_check_mark: [参考答案链接，非打卡时间段，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccnjASyISYXEDhI4W95Rycorh)
     
 * ch03：复杂一点的查询
     - :white_check_mark: [3.1 视图](https://github.com/datawhalechina/wonderful-sql/blob/main/ch03:%20%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#31-%E8%A7%86%E5%9B%BE)
@@ -37,12 +37,12 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
     - :white_check_mark: [3.3 各种各样的函数](https://github.com/datawhalechina/wonderful-sql/blob/main/ch03:%20%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#33-%E5%90%84%E7%A7%8D%E5%90%84%E6%A0%B7%E7%9A%84%E5%87%BD%E6%95%B0)
     - :white_check_mark: [3.4 谓词](https://github.com/datawhalechina/wonderful-sql/blob/main/ch03:%20%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#34-%E8%B0%93%E8%AF%8D)
     - :white_check_mark: [3.5 CASE 表达式](https://github.com/datawhalechina/wonderful-sql/blob/main/ch03:%20%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#35-case-%E8%A1%A8%E8%BE%BE%E5%BC%8F)
-    - :white_check_mark: [参考答案链接，本节打卡完毕后，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccn4Ll8TU5b76SQ93uHlaHjEd)
+    - :white_check_mark: [参考答案链接，非打卡时间段，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccn4Ll8TU5b76SQ93uHlaHjEd)
 
 * ch04：集合运算
     - :white_check_mark: [4.1 表的加减法](https://github.com/datawhalechina/wonderful-sql/blob/main/ch04:%20%E9%9B%86%E5%90%88%E8%BF%90%E7%AE%97.md#41-%E8%A1%A8%E7%9A%84%E5%8A%A0%E5%87%8F%E6%B3%95)
     - :white_check_mark: [4.2 连结(JOIN)](https://github.com/datawhalechina/wonderful-sql/blob/main/ch04:%20%E9%9B%86%E5%90%88%E8%BF%90%E7%AE%97.md#42-%E8%BF%9E%E7%BB%93join)
-    - :white_check_mark: [参考答案链接，本节打卡完毕后，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccnnBUWyb5NQZ27fVuTR2Tvie)
+    - :white_check_mark: [参考答案链接，非打卡时间段，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccnnBUWyb5NQZ27fVuTR2Tvie)
 
 * ch05：SQL高级处理
     - :white_check_mark: [5.1 窗口函数](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#51-%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0)
@@ -51,7 +51,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
     - :white_check_mark: [5.4 GROUPING运算符](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#54-grouping%E8%BF%90%E7%AE%97%E7%AC%A6)
     - :white_check_mark: [5.5 存储过程和函数](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#55-%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E5%92%8C%E5%87%BD%E6%95%B0)
     - :white_check_mark: [5.6 预处理声明 PREPARE Statement](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#56-%E9%A2%84%E5%A4%84%E7%90%86%E5%A3%B0%E6%98%8E-prepare-statement)
-    - :white_check_mark: [参考答案链接，本节打卡完毕后，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccn8YjyxIyV2aQ1J7mQdMHNrd)
+    - :white_check_mark: [参考答案链接，非打卡时间段，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccn8YjyxIyV2aQ1J7mQdMHNrd)
 
 * ch06：决胜秋招
 
@@ -87,7 +87,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
         - :white_check_mark: [练习六: LEFT JOIN 是否可能会出现多出的行？为什么？](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%BA%94left-join-%E6%98%AF%E5%90%A6%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%87%BA%E7%8E%B0%E5%A4%9A%E5%87%BA%E7%9A%84%E8%A1%8C%E4%B8%BA%E4%BB%80%E4%B9%88)
         - :white_check_mark: [附加题: 写一写本次学习的收获。](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E5%86%99%E4%B8%80%E5%86%99%E6%9C%AC%E6%AC%A1%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%94%B6%E8%8E%B7)
         
-     - :white_check_mark: [参考答案链接，本节打卡完毕后，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccnruf8gPtnAm9gbxKJRU0pZf)
+     - :white_check_mark: [参考答案链接，非打卡时间段，开启访问权限](https://xz9235vqyp.feishu.cn/docs/doccnruf8gPtnAm9gbxKJRU0pZf)
 
 ## 常见问题
 
