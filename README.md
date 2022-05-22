@@ -20,7 +20,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 * ch01：初识数据库
     - :white_check_mark: [1.1 初识数据库](https://github.com/datawhalechina/wonderful-sql/blob/main/ch01:%20%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93.md#11-%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93)
     - :white_check_mark: [1.2 初识SQL](https://github.com/datawhalechina/wonderful-sql/blob/main/ch01:%20%E5%88%9D%E8%AF%86%E6%95%B0%E6%8D%AE%E5%BA%93.md#12-%E5%88%9D%E8%AF%86-sql)
-    - :white_check_mark: [参考答案链接，本月有组队学习，关闭访问权限](https://xz9235vqyp.feishu.cn/docs/doccnMduaNhilUIrlldFqmNWIzf)
+    - :white_check_mark: [参考答案链接](https://xz9235vqyp.feishu.cn/docs/doccnMduaNhilUIrlldFqmNWIzf)
 
 * ch02：基础查询与排序
     - :white_check_mark: [2.1 SELECT语句基础](https://github.com/datawhalechina/wonderful-sql/blob/main/ch02:%20%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#21-select%E8%AF%AD%E5%8F%A5%E5%9F%BA%E7%A1%80)
@@ -29,7 +29,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
     - :white_check_mark: [2.4 对表进行聚合查询](https://github.com/datawhalechina/wonderful-sql/blob/main/ch02:%20%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#24-%E5%AF%B9%E8%A1%A8%E8%BF%9B%E8%A1%8C%E8%81%9A%E5%90%88%E6%9F%A5%E8%AF%A2)
     - :white_check_mark: [2.5 对表进行分组](https://github.com/datawhalechina/wonderful-sql/blob/main/ch02:%20%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#25-%E5%AF%B9%E8%A1%A8%E8%BF%9B%E8%A1%8C%E5%88%86%E7%BB%84)
     - :white_check_mark: [2.6 为聚合结果指定条件](https://github.com/datawhalechina/wonderful-sql/blob/main/ch02:%20%E5%9F%BA%E7%A1%80%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E5%BA%8F.md#26-%E4%B8%BA%E8%81%9A%E5%90%88%E7%BB%93%E6%9E%9C%E6%8C%87%E5%AE%9A%E6%9D%A1%E4%BB%B6)
-    - :white_check_mark: [参考答案链接，本月有组队学习，关闭访问权限](https://xz9235vqyp.feishu.cn/docs/doccnjASyISYXEDhI4W95Rycorh)
+    - :white_check_mark: [参考答案链接](https://xz9235vqyp.feishu.cn/docs/doccnjASyISYXEDhI4W95Rycorh)
     
 * ch03：复杂一点的查询
     - :white_check_mark: [3.1 视图](https://github.com/datawhalechina/wonderful-sql/blob/main/ch03:%20%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#31-%E8%A7%86%E5%9B%BE)
