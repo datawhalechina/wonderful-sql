@@ -103,7 +103,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 
     [windows解决方案：修改host文件](https://blog.csdn.net/u011583927/article/details/104384169)
     
-    [备用链接：](https://hub.fastgit.org/datawhalechina/wonderful-sql)
+    [备用链接：](https://gitee.com/datawhalechina/wonderful-sql)
 
 ## 致谢
 
