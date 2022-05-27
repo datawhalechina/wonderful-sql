@@ -35,12 +35,12 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
     - :white_check_mark: [3.3 各种各样的函数](https://github.com/datawhalechina/wonderful-sql/blob/main/ch03:%20%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#33-%E5%90%84%E7%A7%8D%E5%90%84%E6%A0%B7%E7%9A%84%E5%87%BD%E6%95%B0)
     - :white_check_mark: [3.4 谓词](https://github.com/datawhalechina/wonderful-sql/blob/main/ch03:%20%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#34-%E8%B0%93%E8%AF%8D)
     - :white_check_mark: [3.5 CASE 表达式](https://github.com/datawhalechina/wonderful-sql/blob/main/ch03:%20%E5%A4%8D%E6%9D%82%E4%B8%80%E7%82%B9%E7%9A%84%E6%9F%A5%E8%AF%A2.md#35-case-%E8%A1%A8%E8%BE%BE%E5%BC%8F)
-    - :white_check_mark: [参考答案链接，本月有组队学习，关闭访问权限](https://xz9235vqyp.feishu.cn/docs/doccn4Ll8TU5b76SQ93uHlaHjEd)
+    - :white_check_mark: [参考答案链接](https://xz9235vqyp.feishu.cn/docs/doccn4Ll8TU5b76SQ93uHlaHjEd)
 
 * ch04：集合运算
     - :white_check_mark: [4.1 表的加减法](https://github.com/datawhalechina/wonderful-sql/blob/main/ch04:%20%E9%9B%86%E5%90%88%E8%BF%90%E7%AE%97.md#41-%E8%A1%A8%E7%9A%84%E5%8A%A0%E5%87%8F%E6%B3%95)
     - :white_check_mark: [4.2 连结(JOIN)](https://github.com/datawhalechina/wonderful-sql/blob/main/ch04:%20%E9%9B%86%E5%90%88%E8%BF%90%E7%AE%97.md#42-%E8%BF%9E%E7%BB%93join)
-    - :white_check_mark: [参考答案链接，本月有组队学习，关闭访问权限](https://xz9235vqyp.feishu.cn/docs/doccnnBUWyb5NQZ27fVuTR2Tvie)
+    - :white_check_mark: [参考答案链接](https://xz9235vqyp.feishu.cn/docs/doccnnBUWyb5NQZ27fVuTR2Tvie)
 
 * ch05：SQL高级处理
     - :white_check_mark: [5.1 窗口函数](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#51-%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0)
