@@ -357,7 +357,7 @@ EXECUTE stmt1 USING @pcid;
 DEALLOCATE PREPARE stmt1;
 ```
 
-# 练习题
+# 练习题（请给出代码、包含代码及代码执行结果的截图）
 
 ## **5.1**
 
@@ -384,7 +384,7 @@ SELECT  product_id
 
 ## **5.4**
 
-使用简洁的方法创建20个与 `shop.product` 表结构相同的表，如下图所示：
+使用存储过程创建20个与 `shop.product` 表结构相同的表，如下图所示：
 
 # ![图片](./img/ch05/ch0514-question5.4v2.png)
 
