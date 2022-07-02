@@ -14,7 +14,10 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
 
 建议组队期间跟随组队节奏完整的学习一遍课程，不要好高骛远。用心输出学习心得、知识点归纳总结，认真完成每一次作业，你将收获很多。
 
-另外，需要特别说明的是：原则上所有 task 打卡时需要提供文章链接（总结学习内容，完成课后作业），task06 要求必须提交文章链接，不提交视为水卡。
+## 特别说明
+
+1、原则上所有 task 打卡时需要提供文章链接（总结学习内容，完成课后作业），task06 要求必须提交文章链接，不提交视为水卡。
+2、组队学习期间关闭参考答案访问权限，其他时段开放访问权限（大概是每个月后两周，详见 `Datawhale` 公众号当月组队学习内容介绍。
 
 ## 课程目录
 
@@ -56,7 +59,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
     - :white_check_mark: [5.4 GROUPING运算符](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#54-grouping%E8%BF%90%E7%AE%97%E7%AC%A6)
     - :white_check_mark: [5.5 存储过程和函数](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#55-%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E5%92%8C%E5%87%BD%E6%95%B0)
     - :white_check_mark: [5.6 预处理声明 PREPARE Statement](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL%E9%AB%98%E7%BA%A7%E5%A4%84%E7%90%86.md#56-%E9%A2%84%E5%A4%84%E7%90%86%E5%A3%B0%E6%98%8E-prepare-statement)
-    - :white_check_mark: [参考答案链接，本月有组队学习，关闭访问权限](https://xz9235vqyp.feishu.cn/docs/doccn8YjyxIyV2aQ1J7mQdMHNrd)
+    - :white_check_mark: [参考答案链接](https://xz9235vqyp.feishu.cn/docs/doccn8YjyxIyV2aQ1J7mQdMHNrd)
 
 * ch06：决胜秋招
 
@@ -92,7 +95,7 @@ Follow me，从 0 到 1 掌握 SQL，决胜秋招。
         - :white_check_mark: [练习六: LEFT JOIN 是否可能会出现多出的行？为什么？](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E7%BB%83%E4%B9%A0%E4%BA%94left-join-%E6%98%AF%E5%90%A6%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%87%BA%E7%8E%B0%E5%A4%9A%E5%87%BA%E7%9A%84%E8%A1%8C%E4%B8%BA%E4%BB%80%E4%B9%88)
         - :white_check_mark: [附加题: 写一写本次学习的收获。](https://github.com/datawhalechina/wonderful-sql/blob/main/ch06:%20%E5%86%B3%E8%83%9C%E7%A7%8B%E6%8B%9B.md#%E5%86%99%E4%B8%80%E5%86%99%E6%9C%AC%E6%AC%A1%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%94%B6%E8%8E%B7)
         
-     - :white_check_mark: [参考答案链接，本月有组队学习，关闭访问权限](https://xz9235vqyp.feishu.cn/docs/doccnruf8gPtnAm9gbxKJRU0pZf)
+     - :white_check_mark: [参考答案链接](https://xz9235vqyp.feishu.cn/docs/doccnruf8gPtnAm9gbxKJRU0pZf)
 
 ## 常见问题
 
