@@ -136,6 +136,23 @@ PRECEDING（“之前”）， 将框架指定为 “截止到之前 n 行”，
 
 FOLLOWING（“之后”）， 将框架指定为 “截止到之后 n 行”，加上自身行
 
+执行以下代码：
+
+```sql
+SELECT  product_id
+       ,product_name
+       ,sale_price
+       ,AVG(sale_price) OVER (ORDER BY product_id
+                               ROWS 2 PRECEDING) AS moving_avg
+  FROM product;  
+```
+
+**执行结果1：**
+
+注意观察框架的范围。
+
+![图片](./img/ch05/ch0506.png)
+
 BETWEEN 1 PRECEDING AND 1 FOLLOWING，将框架指定为 “之前1行” + “之后1行” + “自身”
 
 执行以下代码：
@@ -145,21 +162,13 @@ SELECT  product_id
        ,product_name
        ,sale_price
        ,AVG(sale_price) OVER (ORDER BY product_id
-                               ROWS 2 PRECEDING) AS moving_avg
-       ,AVG(sale_price) OVER (ORDER BY product_id
                                ROWS BETWEEN 1 PRECEDING AND 1 FOLLOWING) AS moving_avg  
   FROM product;  
 ```
 
-**执行结果：**
+**执行结果2：**
 
 注意观察框架的范围。
-
-ROWS 2 PRECEDING：
-
-![图片](./img/ch05/ch0506.png)
-
-ROWS BETWEEN 1 PRECEDING AND 1 FOLLOWING：
 
 ![图片](./img/ch05/ch0507.png)
 
