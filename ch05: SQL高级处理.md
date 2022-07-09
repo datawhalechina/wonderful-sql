@@ -147,8 +147,7 @@ SELECT  product_id
        ,AVG(sale_price) OVER (ORDER BY product_id
                                ROWS 2 PRECEDING) AS moving_avg
        ,AVG(sale_price) OVER (ORDER BY product_id
-                               ROWS BETWEEN 1 PRECEDING 
-                                        AND 1 FOLLOWING) AS moving_avg  
+                               ROWS BETWEEN 1 PRECEDING AND 1 FOLLOWING) AS moving_avg  
   FROM product;  
 ```
 
