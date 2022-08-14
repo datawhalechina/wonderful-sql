@@ -257,8 +257,8 @@ create table col_row
 ,`胜` int
 ,`负` int);
 
-insert into col_row values ('2021-01-01', 2, 1);
-insert into col_row values ('2021-01-03', 1, 2);
+insert into col_row values ('2021-01-01', 4, 1);
+insert into col_row values ('2021-01-03', 1, 4);
 
 -- 练习三：连续登录
 DROP TABLE if EXISTS t_act_records;
