@@ -198,7 +198,7 @@ SELECT  product_type
 
 ROLLUP 可以对多列进行汇总求小计和合计。
 
-# ![图片](./img/ch05/ch0510.png)
+![图片](./img/ch05/ch0510.png)
 
 ## 5.5 存储过程和函数
 
@@ -328,7 +328,7 @@ PREPARE stmt_name FROM preparable_stmt
 
 下图说明了预处理声明的使用过程：
 
-# ![图片](./img/ch05/ch0511MySQL-Prepared-Statement.png)
+![图片](./img/ch05/ch0511MySQL-Prepared-Statement.png)
 
 ### 5.6.2 使用示例
 
