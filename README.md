@@ -18,9 +18,9 @@ Follow me，从 0 到 1 掌握 SQL。
 
 3、仓库下载便捷方式：采用 **`Git Bash`** 工具，执行命令 `git clone https://github.com/datawhalechina/wonderful-sql` 可以较为快速的下载本仓库到本地，然后使用 markdown 工具打开（比如 Typora）。
 
-4、由于可能会进行组队学习，所以参考答案是不定期公开的，组队学习期间会收回查看权限，如未参加组队学习，但是想查看参考答案，可以添加我飞书好友之后私聊开通权限。
+4、由于可能会进行组队学习，所以参考答案是不定期公开的，组队学习期间会收回查看权限，如未参加组队学习，但是想查看参考答案，可以通过如下链接添加我的飞书好友，私聊开通权限。
 
-
+[我的飞书二维码](https://xz9235vqyp.feishu.cn/docx/CvtTdRHBSofqxUxGm5mc9j2VnTb)
 
 ## 课程目录
 
