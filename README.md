@@ -135,7 +135,7 @@ Follow me，从 0 到 1 掌握 SQL。
   <tr>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">王复振</span></td>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">河北科技大学，公众号：数据科学探究，Datawhale成员，项目负责人，Task00/01/03/05/06内容构建 </td>
-    <td><a href="https://blog.csdn.net/mba1398">CSDN博客</a></td>
+    <td><a href="https://github.com/mba1398">Github</a></td>
   </tr>
   <tr>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">杨煜</span></td>
