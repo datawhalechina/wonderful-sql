@@ -281,16 +281,23 @@ show tables;
 - 插入数据
 ```SQL
 -- 使用 SQL 客户端进行创建
-CREATE DEFINER=`root`@`localhost` PROCEDURE `insert_product_test`()
+-- 按照不同维度来汇总每日销售数据，分别插入相应的统计表
+
+CREATE PROCEDURE `P_SALES_STATISTICS`(IN SDATE VARCHAR(20))
 BEGIN
-    declare i int;
-    set i=1;
-    while i<9 do
-        set @pcid = CONCAT('000', i);
-        PREPARE stmt FROM 'INSERT INTO product_test() SELECT * FROM shop.product where product_id= ?';
-        EXECUTE stmt USING @pcid;
-        set i=i+1;
-    end while;
+  DELETE FROM shop.sales_statistics_1 WHERE sdate = SDATE;
+  INSERT INTO shop.sales_statistics_1
+  SELECT sdate, product_id, product_name, SUM(sales_quantity) AS sales_quantity, SUM(sales_amount) AS sales_amount
+    FROM shop.sales_record
+   GROUP BY sdate, product_id, product_name;
+  
+  DELETE FROM shop.sales_statistics_2 WHERE sdate = SDATE;
+  INSERT INTO shop.sales_statistics_2
+  SELECT a.sdate, b.product_type, SUM(a.sales_quantity) AS sales_quantity, SUM(a.sales_amount) AS sales_amount
+    FROM shop.sales_record a 
+    LEFT JOIN shop.product b 
+      ON a.product_id = b.product_id
+   GROUP BY a.sdate, b.product_type;
 END
 ```
 
