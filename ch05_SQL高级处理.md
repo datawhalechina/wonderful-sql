@@ -235,56 +235,40 @@ CREATE
 - 查询
 下面的示例显示了一个简单的存储过程，给定一个国家代码，计算在 `world` 数据库的城市表中出现的该国家的城市数量。使用 `IN` 参数传递国家代码，使用 `OUT` 参数返回城市计数:
 ```sql
-mysql> DELIMITER //
-mysql> DROP PROCEDURE IF EXISTS citycount //
-Query OK, 0 rows affected (0.01 sec)
+DELIMITER //
 
-mysql> CREATE PROCEDURE citycount (IN country CHAR(3), OUT cities INT)
+DROP PROCEDURE IF EXISTS citycount //
+
+CREATE PROCEDURE citycount (IN country CHAR(3), OUT cities INT)
        BEGIN
          SELECT COUNT(*) INTO cities FROM world.city
          WHERE CountryCode = country;
        END//
-Query OK, 0 rows affected (0.01 sec)
 
-mysql> DELIMITER ;
-mysql> CALL citycount('CHN', @cities); -- cities in China
-Query OK, 1 row affected (0.01 sec)
+DELIMITER ;
 
-    -> SELECT @cities;
-+---------+
-| @cities |
-+---------+
-|     363 |
-+---------+
-1 row in set (0.04 sec)
+CALL citycount('CHN', @cities); -- cities in China
+
+SELECT @cities;
 ```
 
 - 创建表
 ```SQL
-mysql> use world;
-Database changed
-mysql> DELIMITER $$
-mysql> CREATE DEFINER=`root`@`localhost` PROCEDURE `product_test`()
+use world;
+
+DELIMITER $$
+
+CREATE DEFINER=`root`@`localhost` PROCEDURE `product_test`()
 BEGIN
     #Routine body goes here...
     CREATE TABLE product_test like shop.product;
 END$$
-Query OK, 0 rows affected (0.01 sec)
 
-mysql> DELIMITER;
-mysql> call `product_test`();
-Query OK, 0 rows affected (0.04 sec)
+DELIMITER;
 
-mysql> show tables;
-+-----------------+
-| Tables_in_world |
-+-----------------+
-| city            |
-| country         |
-| countrylanguage |
-| product_test    |
-+-----------------+
-4 rows in set (0.02 sec)
+call `product_test`();
+
+show tables;
 ```
 - 插入数据
 ```SQL
