@@ -211,3 +211,27 @@ insert  into `skills`(`skill`) values ('Java'),('Oracle'),('UNIX');
 
 CREATE view `view_product` as
 SELECT * FROM product;
+
+
+-- ----------------------------
+-- Table structure for sales_statistics_1
+-- ----------------------------
+DROP TABLE IF EXISTS `sales_statistics_1`;
+CREATE TABLE `sales_statistics_1`  (
+  `sdate` varchar(20) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NULL DEFAULT NULL COMMENT '销售日期',
+  `product_id` varchar(10) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NULL DEFAULT NULL COMMENT '商品编号',
+  `product_name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NULL DEFAULT NULL COMMENT '商品名称',
+  `sales_quantity` int NULL DEFAULT NULL COMMENT '销售数量',
+  `sales_amount` decimal(20, 2) NULL DEFAULT NULL COMMENT '销售金额'
+) ENGINE = InnoDB CHARACTER SET = utf8mb4 COLLATE = utf8mb4_0900_ai_ci ROW_FORMAT = DYNAMIC;
+
+-- ----------------------------
+-- Table structure for sales_statistics_2
+-- ----------------------------
+DROP TABLE IF EXISTS `sales_statistics_2`;
+CREATE TABLE `sales_statistics_2`  (
+  `sdate` varchar(20) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NULL DEFAULT NULL COMMENT '销售日期',
+  `product_type` varchar(32) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NULL DEFAULT NULL COMMENT '商品类型',
+  `sales_quantity` int NULL DEFAULT NULL COMMENT '销售数量',
+  `sales_amount` decimal(20, 2) NULL DEFAULT NULL COMMENT '销售金额'
+) ENGINE = InnoDB CHARACTER SET = utf8mb4 COLLATE = utf8mb4_0900_ai_ci ROW_FORMAT = DYNAMIC;
