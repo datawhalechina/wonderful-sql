@@ -25,7 +25,7 @@ Follow me，从 0 到 1 掌握 SQL。
 ## 课程目录
 
 * ch00：绪论 - 环境搭建
-    - :white_check_mark: [1. MySQL 8.0 的安装](https://github.com/datawhalechina/wonderful-sql/blob/main/ch00:%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md#1-mysql-80-%E7%9A%84%E5%AE%89%E8%A3%85)
+    - :white_check_mark: [1. MySQL 8.0 的安装](https://github.com/datawhalechina/wonderful-sql/blob/main/ch00_%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md#1-mysql-80-%E7%9A%84%E5%AE%89%E8%A3%85)
     - :white_check_mark: [2. 连接 MySQL 并执行 SQL 查询](https://github.com/datawhalechina/wonderful-sql/blob/main/ch00:%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md#2-%E8%BF%9E%E6%8E%A5-mysql-%E5%B9%B6%E6%89%A7%E8%A1%8C-sql-%E6%9F%A5%E8%AF%A2)
 
 * ch01：初识数据库
