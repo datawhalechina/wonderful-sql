@@ -18,6 +18,8 @@ Follow me，从 0 到 1 掌握 SQL。
 
 3、仓库下载便捷方式：采用 **`Git Bash`** 工具，执行命令 `git clone https://github.com/datawhalechina/wonderful-sql` 可以较为快速的下载本仓库到本地，然后使用 markdown 工具打开（比如 Typora）。
 
+**4、Navicat Premium Lite 已开放订阅，可以免费使用，下载地址：** [https://www.navicat.com.cn/download/navicat-premium-lite](https://www.navicat.com.cn/download/navicat-premium-lite)
+
 ## 课程目录
 
 * ch00：绪论 - 环境搭建
