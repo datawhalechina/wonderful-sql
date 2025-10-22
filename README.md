@@ -107,8 +107,6 @@ If it helps you, please star and share this GitHub repository.
     测试中存在部分人打不开在线教程的情况。
 
     部分小伙伴反馈尝试切换浏览器后可以正常打开了，还可以参考 [提高国内访问 GitHub 的速度的 9 种方案](https://mp.weixin.qq.com/s/sHQ0yjqYNgEb1Bw_X0BxZg) 中介绍的方法尝试打开。
-    
-    如果仍然不行，最有效的解决办法是科学上网。
 
 - **无法加载图片的解决办法**: 
 
