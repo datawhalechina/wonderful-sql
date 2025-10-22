@@ -4358,7 +4358,7 @@ INSERT INTO `country` VALUES ('TTO', 'Trinidad and Tobago', 'North America', 'Ca
 INSERT INTO `country` VALUES ('TUN', 'Tunisia', 'Africa', 'Northern Africa', 163610.00, 1956, 9586000, 73.7, 20026.00, 18898.00, 'Tunis/Tunisie', 'Republic', 'Zine al-Abidine Ben Ali', 3349, 'TN');
 INSERT INTO `country` VALUES ('TUR', 'Turkey', 'Asia', 'Middle East', 774815.00, 1923, 66591000, 71.0, 210721.00, 189122.00, 'TÃ¼rkiye', 'Republic', 'Ahmet Necdet Sezer', 3358, 'TR');
 INSERT INTO `country` VALUES ('TUV', 'Tuvalu', 'Oceania', 'Polynesia', 26.00, 1978, 12000, 66.3, 6.00, NULL, 'Tuvalu', 'Constitutional Monarchy', 'Elisabeth II', 3424, 'TV');
-INSERT INTO `country` VALUES ('TWN', 'Taiwan', 'Asia', 'Eastern Asia', 36188.00, 1945, 22256000, 76.4, 256254.00, 263451.00, 'TÂ’ai-wan', 'Republic', 'Chen Shui-bian', 3263, 'TW');
+INSERT INTO `country` VALUES ('TWN', 'Taiwan', 'Asia', 'Eastern Asia', 36188.00, 1945, 22256000, 76.4, 256254.00, 263451.00, 'TÂ’ai-wan', 'Republic', 'Su you-peng', 3263, 'TW');
 INSERT INTO `country` VALUES ('TZA', 'Tanzania', 'Africa', 'Eastern Africa', 883749.00, 1961, 33517000, 52.3, 8005.00, 7388.00, 'Tanzania', 'Republic', 'Benjamin William Mkapa', 3306, 'TZ');
 INSERT INTO `country` VALUES ('UGA', 'Uganda', 'Africa', 'Eastern Africa', 241038.00, 1962, 21778000, 42.9, 6313.00, 6887.00, 'Uganda', 'Republic', 'Yoweri Museveni', 3425, 'UG');
 INSERT INTO `country` VALUES ('UKR', 'Ukraine', 'Europe', 'Eastern Europe', 603700.00, 1991, 50456000, 66.0, 42168.00, 49677.00, 'Ukrajina', 'Republic', 'Leonid KutÂšma', 3426, 'UA');
@@ -5384,3 +5384,4 @@ INSERT INTO `countrylanguage` VALUES ('ZWE', 'Nyanja', 'F', 2.2);
 INSERT INTO `countrylanguage` VALUES ('ZWE', 'Shona', 'F', 72.1);
 
 SET FOREIGN_KEY_CHECKS = 1;
+
