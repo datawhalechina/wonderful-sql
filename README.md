@@ -110,7 +110,7 @@ If it helps you, please star and share this GitHub repository.
 
 - **无法加载图片的解决办法**: 
 
-    根本解决办法还是科学上网，也可以尝试修改host文件看下是否能解决。
+    也可以尝试修改host文件看下是否能解决。
 
     [windows解决方案：修改host文件](https://blog.csdn.net/u011583927/article/details/104384169)
     
