@@ -2,15 +2,17 @@
 
 Follow me，从 0 到 1 掌握 SQL。
 
-If it helps you, please star and share this GitHub repository.
+如果这个项目对您有帮助，欢迎在 GitHub 上为我们点个 Star 并分享给更多人 ❤️
 
 # 项目由来
 
-随着社会的快速发展，各类企业数字化转型迫在眉睫，SQL 应用能力日趋重要。 在诸多领域中 SQL 应用广泛，数据分析、开发、测试、维护、产品经理等都有可能会用到SQL，而在学校里系统性讲授 SQL 的课程较少，但是面试及日常工作中却经常会涉及到 SQL。这就要求我们提前掌握这一技能。笔者在多年的学习过程中，总结了一些方式方法。受 datawhale 开源理念影响，我非常愿意将我所掌握的知识分享给别人，于是乎，我就发起了这个项目，联合其他几位组织成员，结合经典图书《SQL基础教程》加上团队成员的经验教训，形成了本课程，希望可以帮助你更好的了解和掌握 SQL。
+在当今数字化浪潮下，掌握 SQL 已成为众多职场人不可或缺的技能。无论是数据分析、开发测试，还是产品管理与系统维护，SQL 都发挥着重要作用。然而，学校课程往往难以系统覆盖其实践应用，这使很多人在面试与工作中面临挑战。
 
-考虑到易用性和普及度，课程内容采用`MySql` 数据库进行介绍，具体的目录参见下方，每个章节附带了练习题，最后几个章节是整理的一些面试题，顺利完成本课程学习后，可以帮你更好的应对 SQL 相关的面试或者更好的开展 SQL 相关的日常工作。
+为此，我们基于多年学习与实践经验，借鉴《SQL基础教程》经典内容，并融入团队一线经验与心得，整理形成这份开源课程。受 Datawhale 开源精神启发，我们希望借此项目，帮助更多人高效掌握 SQL，从容应对职场需求。
 
-本课程所涉及的各类文件存储在 `./materials` 目录下，如果有疑问、建议或者勘误信息，请提交`issue` 或者 `Pull request` 给我们，我们将及时响应。
+为兼顾易用性与普及度，本课程选用 MySQL 数据库展开讲解，具体大纲及各章练习题可参见下方目录。最后部分还整理了常见的 SQL 面试题，以帮助学习者在完成课程后，能更从容地应对相关面试或日常工作需求。
+
+课程相关材料均存放于 `./materials` 目录。如有疑问、建议或发现勘误，欢迎通过提交 Issue 或 Pull Request 与我们联系，我们将及时处理并反馈。
 
 ## 特别说明
 
@@ -114,7 +116,7 @@ If it helps you, please star and share this GitHub repository.
 
     [windows解决方案：修改host文件](https://blog.csdn.net/u011583927/article/details/104384169)
     
-    [备用链接：](https://gitee.com/datawhalechina/wonderful-sql)
+    [访问 gitee 网址](https://gitee.com/datawhalechina/wonderful-sql)
 
 ## 致谢
 
@@ -132,12 +134,12 @@ If it helps you, please star and share this GitHub repository.
 <tbody>
   <tr>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">王复振</span></td>
-    <td><span style="font-weight:normal;font-style:normal;text-decoration:none">河北科技大学，公众号：数据科学探究，Datawhale成员，项目负责人，Task00/01/03/05/06内容构建 </td>
+    <td><span style="font-weight:normal;font-style:normal;text-decoration:none">河北科技大学，Datawhale成员，项目负责人，Task00/01/03/05/06内容构建 </td>
     <td><a href="https://github.com/mba1398">Github</a></td>
   </tr>
   <tr>
     <td><span style="font-weight:normal;font-style:normal;text-decoration:none">杨煜</span></td>
-    <td><span style="font-weight:normal;font-style:normal;text-decoration:none">数据分析师，公众号：BI数据可视化，Datawhale成员，Task05/06内容构建</td>
+    <td><span style="font-weight:normal;font-style:normal;text-decoration:none">数据分析师，Datawhale成员，Task05/06内容构建</td>
     <td></td>
   </tr>
   <tr>
