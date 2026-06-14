@@ -263,7 +263,7 @@ SELECT @cities;
 ```
 
 - 创建表
-```SQL
+```sql
 -- 命令行执行模式
 use world;
 
@@ -282,7 +282,7 @@ call `product_test`();
 show tables;
 ```
 - 插入数据
-```SQL
+```sql
 -- 使用 SQL 客户端进行创建
 -- 按照不同维度来汇总每日销售数据，分别插入相应的统计表
 
